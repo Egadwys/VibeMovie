@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Segitiga play -->
+    <path
+        android:fillColor="@color/ic_fg"
+        android:strokeColor="@color/ic_fg"
+        android:strokeWidth="6"
+        android:strokeLineJoin="round"
+        android:pathData="M46,34 L46,64 L72,49 Z" />
+    <!-- Dua garis subtitle -->
+    <path
+        android:strokeColor="@color/ic_fg"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M34,76 L74,76 M42,85 L66,85" />
+</vector>
